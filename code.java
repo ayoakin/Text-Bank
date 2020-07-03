@@ -7,7 +7,7 @@ package textbank;
 
 /**
  *
- * @author ayoakinkugbe
+ * @author ayoakin
  */
 import java.util.Scanner;   
 public class TextBank {
